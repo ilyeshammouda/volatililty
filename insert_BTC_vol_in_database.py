@@ -10,10 +10,10 @@ specifying the information that will be needed to connect to the data base
 '''
 
 
-SERVER = 'como-trading.database.windows.net'
-DATABASE = 'como-risk'
-USERNAME = 'como-admin'
-PASSWORD = 'CRDpls-2041!'
+SERVER = 'Put here your Server adress'
+DATABASE = 'Put here your database name'
+USERNAME = 'Put here your username'
+PASSWORD = 'Put here the passeword to connect to the Azure database'
 DRIVER= '{ODBC Driver 17 for SQL Server}'
 
 
